@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hetzner Online AG - Status-Webseite</title>
+  <id>http://www.hetzner-status.de/</id>
+  <link href="http://www.hetzner-status.de/de.atom" rel="self" type="application/atom+xml" />
+  <link href="http://www.hetzner-status.de/" />
+  <updated>2015-06-07T15:00:03Z</updated>
+  <author>
+      <name>Hetzner Online AG</name>
+  </author>
+  <entry>
+    <title>Störungsmeldung vHost 1317</title>
+    <id>http://www.hetzner-status.de/de.html#4733</id>
+    <link href="http://www.hetzner-status.de/de.html#4733" />
+    <updated>2015-06-06T07:49:08Z</updated>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <strong>Typ</strong>
+          <p>Störungsmeldung</p>
+        </div>
+        <div>
+          <strong>Kategorie</strong>
+          <ul>
+            <li>vServer</li>
+          </ul>
+        </div>
+        <div>
+          <strong>Start</strong>
+          <p>6. Juni 2015 09:22:00 CEST</p>
+        </div>
+        <div>
+          <strong>Ende</strong>
+          <p>6. Juni 2015 09:48:00 CEST</p>
+        </div>
+        <div>
+          <strong>Beschreibung</strong>
+          <p>Aufgrund einer aktuellen Störung ist der vHost 1317 und die vServer auf diesem nicht zu erreichen.</p>
+        </div>
+        <div>
+          <strong>Betroffen</strong>
+          <p>vServer die auf dem vHost 1317 laufen.</p>
+        </div>
+        <div>
+          <strong>Hinweise</strong>
+          <p>Sie können im Hetzner Robot bei Ihrem vServer nachsehen, auf welchem vHost Ihr vServer läuft.</p>
+        </div>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Störungsmeldung vHost 1317 (1. Update)</title>
+    <id>http://www.hetzner-status.de/de.html#4733-4142</id>
+    <link href="http://www.hetzner-status.de/de.html#4733-4142" />
+    <updated>2015-06-06T07:49:12Z</updated>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          <strong>Update</strong>
+          <p>6. Juni 2015 09:48:00 CEST<br />Der Server ist wieder online.</p>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Wartungsarbeiten Webhosting-Datenbankserver sql142.your-server.de</title>
+    <id>http://www.hetzner-status.de/de.html#4732</id>
+    <link href="http://www.hetzner-status.de/de.html#4732" />
+    <updated>2015-06-05T20:12:58Z</updated>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <strong>Typ</strong>
+          <p>Wartungsarbeiten</p>
+        </div>
+        <div>
+          <strong>Kategorie</strong>
+          <ul>
+            <li>Webhosting und Managed Server</li>
+          </ul>
+        </div>
+        <div>
+          <strong>Start</strong>
+          <p>5. Juni 2015 22:00:00 CEST</p>
+        </div>
+        <div>
+          <strong>Ende</strong>
+          <p>5. Juni 2015 22:30:00 CEST (voraussichtlich)</p>
+        </div>
+        <div>
+          <strong>Beschreibung</strong>
+          <p>Wegen Wartungsarbeiten wird der Webhosting-Datenbankserver sql142.your-server.de zum oben genannten Zeitraum nicht zu erreichen sein.<br />
+Wir bitten um Ihr Verständnis.</p>
+        </div>
+        <div>
+          <strong>Betroffen</strong>
+          <p>Ob Ihre Domain/s davon betroffen ist/sind, erfahren Sie in der Datenbankübersicht der konsoleH im Menüpunkt &quot;Einstellungen; Datenbanken&quot;.<br />
+In der Übersicht steht dann z.B.: test_db1 (sql142.your-server.de).</p>
+        </div>
+      </div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Wartungsarbeiten Webhosting-Datenbankserver sql142.your-server.de (1. Update)</title>
+    <id>http://www.hetzner-status.de/de.html#4732-4141</id>
+    <link href="http://www.hetzner-status.de/de.html#4732-4141" />
+    <updated>2015-06-05T20:13:01Z</updated>
+    <summary type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          <strong>Update</strong>
+          <p>5. Juni 2015 22:12:00 CEST<br />Die Wartungsarbeiten sind erfolgreich abgeschlossen. Vielen Dank für Ihr Verständnis.</p>
+      </div>
+    </summary>
+  </entry>
+</feed>
