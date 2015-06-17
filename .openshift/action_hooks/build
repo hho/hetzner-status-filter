@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export JAVA_HOME=/usr/lib/jvm/java-1.8.0
+export M2_HOME=/usr/share/java/apache-maven-3.0.4
+export PATH=$JAVA_HOME/bin:$M2_HOME/bin:$PATH
+
+cd $OPENSHIFT_REPO_DIR
+mvn -s .openshift/settings.xml clean package -DskipTests
